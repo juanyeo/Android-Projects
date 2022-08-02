@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fast_photo frame</string>
+    <string name="add_photo_button">갤러리에서 사진 추가</string>
+    <string name="animate_photo_button">사진 순서대로 보기</string>
+</resources>
