@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528686290080",
+    "project_id": "fcmandroid-579b1",
+    "storage_bucket": "fcmandroid-579b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528686290080:android:6c49b29800bd59615f65c5",
+        "android_client_info": {
+          "package_name": "com.example.fast_fcmnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528686290080-jqvfsoontpfeubqfj1hlepvqcj4nd9c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfKN852NrVrLcb4GlH1ytuDZmOSGYs710"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528686290080-jqvfsoontpfeubqfj1hlepvqcj4nd9c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
